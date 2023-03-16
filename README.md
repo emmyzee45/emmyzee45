@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @emmyzee45 a student of federal university of Agriculture Makurdi, Benue state Nigeria. I'm studying computer science.
+- 👋 Hi, I’m Aondohemba Iorolun Emmanuel, currently I'm a Software Engineer in Nigeria, passionate about solving problems with technology and creating different solutions.
 - 👀 I’m interested in working with other developers to increase my knowledge.
-- 🌱 I’m currently learning how to become MERN stack developer.
-- 💞️ I’m looking to collaborate on projects.
+- 💞️ Always looking forward to collaborate on projects.
 - 📫  Reach me on this contact +2347039575074
 
 <!---
