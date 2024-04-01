@@ -3,4 +3,4 @@
 - 💞️ Always looking forward to collaborate on projects.
 - 📫  Reach me on this contact +2347039575074
 
-https://www.linkedin.com/in/aondohemba-iorolun-emmanuel-926a75203/
+https://www.linkedin.com/in/aondohemba-iorolun-emmanuel
