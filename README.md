@@ -1,7 +1,10 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Software Engineer!;" />
-</h1>
+<p align="center">
+  <!-- Typing SVG -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer%20and%20Web3%20developer;Cardano%20Blockchain%20Developer;4+%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=50&color=f75c7e&vCenter=true&pause=2000&size=22&duration=3000" />
+  </a>
+</p>
+
 Hi there! I'm Aondohemba Emmanuel, a passionate Full-Stack Developer with a background in Computer Science 🎓 and a deep interest in Machine Learning. I enjoy building scalable, user-centric applications that connect the dots between backend logic and frontend creativity. My goal is to create seamless, intuitive digital experiences while continuously learning and growing in the ever-evolving tech landscape.
 
   <p align="left">
