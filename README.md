@@ -16,6 +16,3 @@ Hi there! I'm Aondohemba Emmanuel, a passionate Full-Stack Developer with a back
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/emmyzee45?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-- 📫  Reach me on this contact +2347039575074
-
-https://www.linkedin.com/in/aondohemba-iorolun-emmanuel
