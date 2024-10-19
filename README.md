@@ -1,12 +1,9 @@
 <p align="center">
   <!-- Typing SVG -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer%20and%20Web3%20developer;Cardano%20Blockchain%20Developer;4+%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=50&color=f75c7e&vCenter=true&pause=2000&size=22&duration=3000" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer%20and%20Web3%20Engineer;Deep%20interest%20in%20machin%20learning;And%20Blockchain%20Development;4+%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=50&color=f75c7e&vCenter=true&pause=2000&size=22&duration=3000" />
   </a>
 </p>
-
-Hi there! I'm Aondohemba Emmanuel, a passionate Full-Stack Developer with a background in Computer Science 🎓 and a deep interest in Machine Learning. I enjoy building scalable, user-centric applications that connect the dots between backend logic and frontend creativity. My goal is to create seamless, intuitive digital experiences while continuously learning and growing in the ever-evolving tech landscape.
-
   <p align="left">
      <a href="emmyaondohemba45@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -43,6 +40,3 @@ Hi there! I'm Aondohemba Emmanuel, a passionate Full-Stack Developer with a back
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
